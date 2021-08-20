@@ -20,8 +20,8 @@ Steps:
 
 ## 0.5 Single Page App
 File to review: Single Page App New Note.png
-
 Steps:
+
     - Browser send a request to get the spa page
     - Server send the HTML code to the browser
     - Browser send a request asking for the main.css file to the server
@@ -37,6 +37,7 @@ Steps:
 File to review: Single Page App Initial.png
 
 Steps:
+
     - Browser send a POST request with the note created in the frontend side
     - Server returns with a message telling us that a note was created
     - Browser redraw the notes
